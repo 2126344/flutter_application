@@ -1,16 +1,34 @@
-# flutter_application_1
+FINAL YEAR PROGRESS REPORT
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+PROJECT ID
+1416 D
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+PROJECT TITLE
+SERENEMIND: MITIGATE NEGATIVE IMPACT ON MENTAL HEALTH USING AI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+PROJECT CATEGORY
+SYSTEM DEVELOPMENT
+
+
+
+by
+SHARIFAH ANIS MAISARAH BINTI SHAIK FAUZI (2126344)
+NUR QISTINA ALIAH BINTI MOHD NIZAM (2128354)
+
+
+
+SUPERVISED BY
+DR. TAKUMI SASE
+
+
+In partial fulfillment of the requirement for the
+Bachelor of Computer Science
+
+
+Kuliyyah of Information and Communication Technology
+International Islamic University Malaysia
+
